@@ -13,3 +13,6 @@ If you do not receive a timely response in the above link, you are also welcome 
 The current page can also ask questions from the author. After registration is required, the related operations are performed at the top.
 
 Due to the limited energy of the author team, we will open source HMDB on this page in the future. Please pay attention.
+
+Intellectual Property Statement: SiltbreakerSecurity is a security software that protects the user's Siltbreaker Hard Mode forum account, independent of Dota2, Steam, and Valve.
+Siltbreaker Hard Mode games are not used for commercial purposes, and the forums are only for player communication. Some of the art resources used in the Siltbreaker Hard Mode game are copyrighted by Dota2.
